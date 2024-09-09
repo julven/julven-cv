@@ -1,0 +1,92 @@
+{	
+	"pdf" : false,
+	"header" : {
+		"image" : "me.jpg",
+		"name":"Julven Rey Condor",
+		"position" : "Web Developer",
+		"degree" : "Bachelor of Science in Information Technology",
+		"address" : [
+			"Luinab",
+			"Iligan",
+			"Lanao Del Norte",
+			"Philippines",
+			"9200"
+		],
+		"address2" : [
+			"151",
+			"Balsam Court",
+			"Springdale",
+			"OH",
+			"45246"
+		],
+		"phone": [
+			"+15132049856",
+			"+15132583542"
+		],
+		"email": [
+			"julven_condor@yahoo.com",
+			"julvenici@gmail.com"
+		],
+		"skype" : "julven.condor",
+		"website": "https://julven.epizy.com",
+		"about": "I am knowledgeable in many web/programming techs like HTML, CSS, JavaScript, PHP and MySQL as well as frameworks/libraries like JQuery, Bootstrap, ReactJs, and VueJs. I use Bubble.io for fast app prototyping and development. I'm ready to improve my skills and learn more as I work with you and contribute to your company's success."
+
+	},
+	"skills" : [
+		{"skill" : "HTML", "exp" :5},
+		{"skill" : "Javascript", "exp" : 5},
+		{"skill" : "CSS", "exp" : 4},
+		{"skill" : "PHP", "exp" : 3},
+		{"skill" : "MySQL", "exp" : 3},
+		{"skill" : "JQuery", "exp" : 2},
+		{"skill" : "Bubble.IO", "exp" : 4},
+		{"skill" : "ReactJS", "exp" : 4},
+		{"skill" : "VueJS", "exp" : 3},
+		{"skill" : "Node.JS", "exp" : 3},
+		{"skill" : "Bootstrap 5", "exp" : 3}
+	],
+	"education" : [
+		
+		{
+			"school" : "St. Michael’s College, Iligan City Philippines ",			
+			"course" : "Bachelor of Science in Information Technology ",
+			"date" : "June 2014 – March 2019"
+		},
+		{
+			"school" : "Iligan Computer Institute, Iligan City Philippines ",
+			"course" : "Computer Engineering Technology ",
+			"date" : "June 2012 – March 2013"
+		}
+	],
+	"experience" : [
+		
+		{
+			"company" : "Dritschler Media",
+			"location" : "Prosper, TX",
+			"position" : "Web developer (Remote)",
+			"date" : "2023 - Present",
+			"description" : "Created and maintaining a website (https://ottoseo.ai) that generates AI article content using ChatGPT 4. Integrated Wordpress, Zappier,Webflow, Shopify API’s for uploading blog articles directly to those website builder platforms. The website app is created using bubble.io website builder."
+		},
+		{
+			"company" : "MVP.dev",
+			"location" : "Palm Beach Gardens, FL",
+			"position" : "Web software developer (Remote)",
+			"date" : "2022 - 2023",
+			"description" : "Creating websites based on client designs and specification. Using bubble.io (low-code/no-code) to create web apps and using traditional coding (javascript/css) when development encounters Bubble.IO limitations."
+		},
+		{
+			"company" : "Freelance web developer",
+			"location" : "n/a",
+			"position" : "Web developer (Remote)",
+			"date" : "2021 - 2022",
+			"description" : "Designed and developed web application using javascript frameworksuch as React, and Vue to replace or update old websites. Developeduser interfaces with modern javascript frameworks, HTML, CSS,Bootstrap 5, for improved user experience. Used backend technologies like mysql, php, firebase for persistent data storage and real-timeupdates. Change/update website application design/code per client instructions until satisfactory results."
+		},
+		{
+			"company" : "Fiercecom",
+			"location" : "Cebu, PH",
+			"position" : "Front-end developer",
+			"date" : "2019 - 2021",
+			"description" : "Contracted for web application development ranging from landing pages to ecommerce websites as a front-end developer using HTML, CSS, and javascript. Priorities on user interface and experiences. Assisting in maintaining company's inhouse apps and website."
+		}
+	]
+}
