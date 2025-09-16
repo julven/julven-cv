@@ -29,7 +29,7 @@
 		],
 		"skype" : "julven.condor",
 		"website": "https://julven.epizy.com",
-		"about": "I am knowledgeable in many web/programming techs like HTML, CSS, JavaScript, PHP and MySQL as well as frameworks/libraries like JQuery, Bootstrap, ReactJs, and VueJs. I use Bubble.io for fast app prototyping and development. I'm ready to improve my skills and learn more as I work with you and contribute to your company's success."
+		"about": "I am knowledgeable in many web/programming techs like HTML, CSS, JavaScript, PHP and MySQL as well as frameworks/libraries like JQuery, Bootstrap, ReactJs, and VueJs. I'm ready to improve my skills and learn more as I work with you and contribute to your company's success."
 
 	},
 	"skills" : [
@@ -39,7 +39,7 @@
 		{"skill" : "PHP", "exp" : 3},
 		{"skill" : "MySQL", "exp" : 3},
 		{"skill" : "JQuery", "exp" : 2},
-		{"skill" : "Bubble.IO", "exp" : 4},
+		{"skill" : "Bubble.IO", "exp" : 2},
 		{"skill" : "ReactJS", "exp" : 4},
 		{"skill" : "VueJS", "exp" : 3},
 		{"skill" : "Node.JS", "exp" : 3},
@@ -61,6 +61,14 @@
 	"experience" : [
 		
 		{
+			"company" : "Bispoke.io",
+			"location" : "Salt Lake City, UT",
+			"position" : "Fullstack Web Developer developer",
+			"date" : "2024 - 2025",
+			"description" : "Responsible for creating UI and graph visualization of big data for amazon brands and products. Created Chrome Extension that embeds data charts in Amazon product page. Technologies being used are React.js, Vue.js, Bootstrap 5, PostgreSQL, Node.js, AWS Lambda, Stripe and Google Bigquery."
+		},
+		
+		{
 			"company" : "Dritschler Media",
 			"location" : "Prosper, TX",
 			"position" : "Web developer (Remote)",
@@ -80,13 +88,6 @@
 			"position" : "Web developer (Remote)",
 			"date" : "2021 - 2022",
 			"description" : "Designed and developed web application using javascript frameworksuch as React, and Vue to replace or update old websites. Developeduser interfaces with modern javascript frameworks, HTML, CSS,Bootstrap 5, for improved user experience. Used backend technologies like mysql, php, firebase for persistent data storage and real-timeupdates. Change/update website application design/code per client instructions until satisfactory results."
-		},
-		{
-			"company" : "Fiercecom",
-			"location" : "Cebu, PH",
-			"position" : "Front-end developer",
-			"date" : "2019 - 2021",
-			"description" : "Contracted for web application development ranging from landing pages to ecommerce websites as a front-end developer using HTML, CSS, and javascript. Priorities on user interface and experiences. Assisting in maintaining company's inhouse apps and website."
 		}
 	]
 }
