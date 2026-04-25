@@ -36,13 +36,14 @@
 		{"skill" : "HTML", "exp" :5},
 		{"skill" : "Javascript", "exp" : 5},
 		{"skill" : "CSS", "exp" : 4},
-		{"skill" : "PHP", "exp" : 3},
-		{"skill" : "MySQL", "exp" : 3},
-		{"skill" : "JQuery", "exp" : 2},
-		{"skill" : "Bubble.IO", "exp" : 2},
 		{"skill" : "ReactJS", "exp" : 4},
 		{"skill" : "VueJS", "exp" : 3},
 		{"skill" : "Node.JS", "exp" : 3},
+		{"skill" : "PostgreSQL", "exp" : 2},
+		{"skill" : "MySQL", "exp" : 1},
+		{"skill" : "JQuery", "exp" : 2},
+		{"skill" : "PHP", "exp" : 1},
+		{"skill" : "Bubble.IO", "exp" : 1},
 		{"skill" : "Bootstrap 5", "exp" : 3}
 	],
 	"education" : [
