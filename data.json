@@ -30,8 +30,6 @@
 		"skype" : "julven.condor",
 		"website": "https://julven-portfolio.vercel.app/",
 		"about": "I have a strong foundation in web development, with experience in HTML and CSS, along with database management using PostgreSQL, and solid expertise in JavaScript codebases including Node.js, React.js, Vue.js, and jQuery. I also specialize in AI-assisted web development, using tools like ChatGPT and Claude to improve productivity and streamline workflows, and have experience working with backend and cloud technologies such as Supabase. I am eager to continue expanding my skill set, learning new technologies, and contributing effectively to your company’s success."
-"
-
 	},
 	"skills" : [
 		{"skill" : "HTML", "exp" :5},
