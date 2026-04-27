@@ -41,6 +41,7 @@
 		{"skill" : "Node.JS", "exp" : 3},
 		{"skill" : "PostgreSQL", "exp" : 2},
 		{"skill" : "JQuery", "exp" : 2},
+		{"skill" : "NextJs", "exp" : 1},
 		{"skill" : "MySQL", "exp" : 1},
 		{"skill" : "PHP", "exp" : 1},
 		{"skill" : "Bubble.IO", "exp" : 1}
