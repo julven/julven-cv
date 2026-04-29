@@ -29,7 +29,7 @@
 		],
 		"skype" : "julven.condor",
 		"website": "https://julven-portfolio.vercel.app/",
-		"about": "I have a solid foundation in web development with experience in HTML and CSS, strong expertise in JavaScript codebases including Node.js, React.js, Vue.js, and jQuery, along with backend technologies such as PostgreSQL and Supabase. I also use AI-assisted tools like ChatGPT and Claude to enhance productivity while continuously improving my skills and contributing effectively to team success."
+		"about": "I have a solid foundation in web development with experience in HTML and CSS, strong expertise in JavaScript codebases including Node.js, React.js, Vue.js, and NextJs, along with backend technologies such as PostgreSQL and Supabase. I also use AI-assisted tools like ChatGPT and Claude to enhance productivity while continuously improving my skills and contributing effectively to team success."
 	},
 	"skills" : [
 		{"skill" : "HTML", "exp" :5},
