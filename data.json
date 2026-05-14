@@ -29,22 +29,23 @@
 		],
 		"skype" : "julven.condor",
 		"website": "https://julven-portfolio.vercel.app/",
-		"about": "I have a solid foundation in web development with experience in HTML and CSS, strong expertise in JavaScript codebases including Node.js, React.js, Vue.js, and NextJs, along with backend technologies such as PostgreSQL and Supabase. I also use AI-assisted tools like ChatGPT and Claude to enhance productivity while continuously improving my skills and contributing effectively to team success."
+		"about": "I have a solid foundation in web development with experience in HTML and CSS, strong expertise in JavaScript codebases including Node.js, React.js and NextJs, along with backend technologies such as PostgreSQL and  MySQL. I also use AI-assisted tools like ChatGPT and Claude to enhance productivity while continuously improving my skills and contributing effectively to team success."
 	},
 	"skills" : [
 		{"skill" : "HTML", "exp" :5},
 		{"skill" : "Javascript", "exp" : 5},
 		{"skill" : "CSS", "exp" : 4},
-		{"skill" : "ReactJS", "exp" : 4},
+		{"skill" : "React.js", "exp" : 4},
 		{"skill" : "Bootstrap 5", "exp" : 3},
-		{"skill" : "VueJS", "exp" : 3},
-		{"skill" : "Node.JS", "exp" : 3},
+		{"skill" : "Node.js", "exp" : 3},
 		{"skill" : "PostgreSQL", "exp" : 2},
 		{"skill" : "JQuery", "exp" : 2},
-		{"skill" : "NextJs", "exp" : 1},
+		{"skill" : "Next.js", "exp" : 2},
+		{"skill" : "VueJS", "exp" : 1},
 		{"skill" : "MySQL", "exp" : 1},
 		{"skill" : "PHP", "exp" : 1},
-		{"skill" : "Bubble.IO", "exp" : 1}
+		{"skill" : "Bubble.IO", "exp" : 1},
+		{"skill" : "Wordpress", "exp" : 1}
 		
 	],
 	"education" : [
@@ -67,7 +68,7 @@
 			"location" : "Salt Lake City, UT",
 			"position" : "Fullstack Web Developer (Remote) ",
 			"date" : "2024 - 2026",
-			"description" : "Responsible for creating UI and graph visualization of big data for amazon brands and products. Created Chrome Extension that embeds data charts in Amazon product page. Technologies being used are React.js, Vue.js, Bootstrap 5, PostgreSQL, Node.js, AWS Lambda, Stripe and Google Bigquery."
+			"description" : "Responsible for creating UI and graph visualization of big data sets for amazon brands and products. Created Chrome Extension that embeds data charts in Amazon product page. Technologies being used are React.js, Next.Js Vue.js, Bootstrap 5, PostgreSQL, Node.js, with AI assistance using Claude and ChatGPT."
 		},
 		
 		{
@@ -75,21 +76,21 @@
 			"location" : "Prosper, TX",
 			"position" : "Web developer (Remote)",
 			"date" : "2023 - 2024",
-			"description" : "Created and maintaining a website (https://ottoseo.ai) that generates AI article content using ChatGPT 4. Integrated Wordpress, Zappier,Webflow, Shopify API’s for uploading blog articles directly to those website builder platforms. The website app is created using bubble.io website builder."
+			"description" : "Developed and maintained a website that generates AI article content using ChatGPT 4. Integrated Wordpress, Zappier, Webflow and Shopify API’s for uploading blog articles directly to those website builder platforms. The website app is created using Bubble.io website builder."
 		},
 		{
 			"company" : "MVP.dev",
 			"location" : "Palm Beach Gardens, FL",
 			"position" : "Web software developer (Remote)",
 			"date" : "2022 - 2023",
-			"description" : "Creating websites based on client designs and specification. Using bubble.io (low-code/no-code) to create web apps and using traditional coding (javascript/css) when development encounters Bubble.IO limitations."
+			"description" : "Creating websites based on client designs and specification. Using Bubble.io (low-code/no-code) to create web apps and using traditional coding (Javascript/CSS) when development encounters Bubble.io limitations."
 		},
 		{
 			"company" : "Freelance web developer",
 			"location" : "n/a",
 			"position" : "Web developer (Remote)",
 			"date" : "2021 - 2022",
-			"description" : "Designed and developed web application using javascript frameworksuch as React, and Vue to replace or update old websites. Developeduser interfaces with modern javascript frameworks, HTML, CSS,Bootstrap 5, for improved user experience. Used backend technologies like mysql, php, firebase for persistent data storage and real-timeupdates. Change/update website application design/code per client instructions until satisfactory results."
+			"description" : "Developed web application using frameworks such as Wordpress, Webflow, React.js, and Vue.js to replace or update old websites.  Used backend technologies like MySQL, PHP for persistent data storage and real-time updates. Change/update website application design/code per client instructions until satisfactory results."
 		}
 	]
 }
