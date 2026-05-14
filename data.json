@@ -39,12 +39,12 @@
 		{"skill" : "Bootstrap 5", "exp" : 3},
 		{"skill" : "Node.js", "exp" : 3},
 		{"skill" : "PostgreSQL", "exp" : 2},
-		{"skill" : "JQuery", "exp" : 2},
 		{"skill" : "Next.js", "exp" : 2},
+		{"skill" : "JQuery", "exp" : 2},
 		{"skill" : "VueJS", "exp" : 1},
 		{"skill" : "MySQL", "exp" : 1},
 		{"skill" : "PHP", "exp" : 1},
-		{"skill" : "Bubble.IO", "exp" : 1},
+		{"skill" : "Bubble.io", "exp" : 1},
 		{"skill" : "Wordpress", "exp" : 1}
 		
 	],
