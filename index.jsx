@@ -13,7 +13,7 @@ const Context = createContext();
 const ContextProvider = ({children}) => {
 
 	const [data, setData] = useState(null)
-	const [us, setUs] = useState(false)
+	const [us, setUs] = useState(true)
 	const [screen, setScreen] = useState({w: 0, h: 0})
 
 	const resize = () => {
